@@ -1,0 +1,90 @@
+.top-container{
+    background-color: #e4f9f5;
+    height: auto;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+
+.title-text h1{
+    font-size: 5.6rem;
+    font-family: 'Sacramento', cursive;
+    padding-top: 100px;
+    font-weight: bold;
+    
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+}
+.title-text{
+    color: #66bfbf;
+    display: block;
+    text-align: center;
+}
+.title-text h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+  
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+}
+.mountain{
+    display: block;
+    margin: auto;
+    height: fit-content;
+    
+}
+.profile-img{
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    height: 200px;
+    margin-top: 120px;
+}
+.intro{
+    font-family: "Montserrat", sans-serif;
+    display:block;
+    margin: auto;
+    color:  #40514e;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.lead p{
+    font-family: "Montserrat", sans-serif;
+    text-align: justify;
+    color:  #40514e;
+    font-size: 1.2rem;
+}
+.subtitle h3{
+    color: #66bfbf; 
+}
+.btn{
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    border-radius: 8px;
+    padding: 10px 20px 10px 20px;
+}
+.contact a{
+    color: white;
+    font-size: 20px;
+
+}
+.footer{
+    background-color:  hsl(182, 61%, 72%);
+    height: auto;
+    display: block;
+    
+    margin-left:0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    padding: 0%;
+    
+    
+}
